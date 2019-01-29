@@ -1,0 +1,6 @@
+dns_types=list()
+dns_types.append({'id':1,'name':'A'})
+dns_types.append({'id':5,'name':'CNAME'})
+dns_types.append({'id':28,'name':'AAAA'})
+dns_types.append({'id':15,'name':'MX'})
+dns_types.append({'id':16,'name':'TXT'})
